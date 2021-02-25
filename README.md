@@ -2,7 +2,7 @@
 
 ## Author
 
-[Andiwo Edwin](https://github.com/andiwoedwin/)
+[Carol wambui muhia](https://github.com/carol-wambui/MY-PORTFOLIO/)
 
 
 
@@ -18,7 +18,7 @@ This is my portfolio website which consists of all the work i have undertaken si
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/andiwoedwin/My-portfolio```
+* git clone ``````
 
 * cd New-Portfolio
 
@@ -35,8 +35,8 @@ This is my portfolio website which consists of all the work i have undertaken si
 
 ## Contact Information 
 
-You can reach me via [andiwoedwin@gmail.com] or +254712248626
+You can reach me via [carolwambuidaystar@gmail.com] or +254705211583
 
 ## License
 * *MIT License:*
-* Copyright (c) 2020 **Andiwo Edwin**
+* Copyright (c) 2020 *Carol Wambui**
